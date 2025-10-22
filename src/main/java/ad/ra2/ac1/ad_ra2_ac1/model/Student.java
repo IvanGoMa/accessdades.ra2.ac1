@@ -1,5 +1,6 @@
 package ad.ra2.ac1.ad_ra2_ac1.model;
 
+// Model de Student, amb els constructors, setter i getters
 public class Student {
     private long id;
     private String nom;
